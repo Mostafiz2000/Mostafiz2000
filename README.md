@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mostafiz2000
 -  I’m interested in Computer Programming and Backend Engineering 
--  I’m currently a CS fresh graduate from CUET
--  I’m looking for a postion of software engineer or backend engineering
+-  I’m currently Experienced C++ Developer at a reputed company
 -  reach me through my email: mdmostafizurrahmancuet17@gmail.com
 
 <!---
