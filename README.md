@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mostafiz2000
--  I’m interested in Computer Programming and Backend Engineering 
+-  I’m interested in Computer Programming and Programming 
 -  I’m currently Experienced C++ Developer at a reputed company
 -  reach me through my email: mdmostafizurrahmancuet17@gmail.com
 
