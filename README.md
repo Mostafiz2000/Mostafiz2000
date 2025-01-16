@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mostafiz2000
 -  I’m interested in Computer Programming and Programming 
--  I’m currently Experienced Qt and .Net Developer at a reputed company
+-  I’m currently Experienced Qt(C++) and .Net Developer at a reputed company
 -  reach me through my email: mdmostafizurrahmancuet17@gmail.com
 
 <!---
