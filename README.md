@@ -23,10 +23,6 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-✔ Programming: C++, Python, Golang (learning)
-✔ Frameworks: Qt (C++), .NET (WPF & WinForms)
-✔ Networking & Security: OpenVPN, WireGuard, TOR over VPN, Stunnel, UDP2Raw
-✔ Platforms: Windows, macOS, Linux
 ✔ Experience: Competitive programming, mentoring, and tackling complex software challenges
 
 
