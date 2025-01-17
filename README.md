@@ -37,8 +37,6 @@
 
 ![Mostafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true)
 
-![Mostafiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
 ![Mostafiz's GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight)
 
 📬 Let's Connect!     
