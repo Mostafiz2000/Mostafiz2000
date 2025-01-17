@@ -32,8 +32,8 @@
 ✅ Build & optimize VPN and encryption technologies   
 ✅ Mentor & collaborate on problem-solving   
 
-📬 Let's Connect!
-📩 Email: mdmostafizurrahmancuet17@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/mostafizur-rahman-1530101b2/
+📬 Let's Connect!     
+📩 Email: mdmostafizurrahmancuet17@gmail.com     
+🔗 LinkedIn: https://www.linkedin.com/in/mostafizur-rahman-1530101b2/    
 
-💻 Open to collaboration on innovative projects and research-oriented development!
+💻 Open to collaboration on innovative projects and research-oriented development!  
