@@ -33,7 +33,7 @@
 ✅ Build & optimize VPN and encryption technologies   
 ✅ Mentor & collaborate on problem-solving   
 
-## 📊 GitHub Statistics
+## 📊 Github Statistics
 
 ![Mostafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true)
 
