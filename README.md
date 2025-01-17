@@ -25,13 +25,12 @@
 
 ✔ Experience: Competitive programming, mentoring, and tackling complex software challenges
 
-
-
 🌟 What I Do
-✅ Develop high-performance, cross-platform applications\n
-✅ Research & implement secure networking solutions\n
-✅ Build & optimize VPN and encryption technologies\n
-✅ Mentor & collaborate on problem-solving\n
+
+✅ Develop high-performance, cross-platform applications   
+✅ Research & implement secure networking solutions    
+✅ Build & optimize VPN and encryption technologies   
+✅ Mentor & collaborate on problem-solving   
 
 📬 Let's Connect!
 📩 Email: mdmostafizurrahmancuet17@gmail.com
