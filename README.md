@@ -10,10 +10,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-7D4698?style=for-the-badge&logo=tor-project&logoColor=white)
@@ -32,6 +32,14 @@
 ✅ Research & implement secure networking solutions    
 ✅ Build & optimize VPN and encryption technologies   
 ✅ Mentor & collaborate on problem-solving   
+
+## 📊 GitHub Statistics
+
+![Mostafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true)
+
+![Mostafiz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
+
+![Mostafiz's GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=tokyonight)
 
 📬 Let's Connect!     
 📩 Email: mdmostafizurrahmancuet17@gmail.com     
