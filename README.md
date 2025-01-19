@@ -37,8 +37,6 @@
 
 ![Mostafiz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostafiz2000&show_icons=true&theme=tokyonight&count_private=true)
 
-![Mostafiz's GitHub Streak](https://streak-stats.demolab.com/?user=Mostafiz2000&theme=tokyonight)
-
 📬 Let's Connect!     
 📩 Email: mdmostafizurrahmancuet17@gmail.com     
 🔗 LinkedIn: https://www.linkedin.com/in/mostafizur-rahman-1530101b2/    
