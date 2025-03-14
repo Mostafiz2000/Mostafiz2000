@@ -29,8 +29,8 @@
 
 🌟 What I Do
 
-✅ Develop high-performance, cross-platform applications
-✅ Develop high-scalable fleet manament listener
+✅ Develop high-performance, cross-platform applications 
+✅ Develop high-scalable fleet manament listener 
 ✅ Research & implement secure networking solutions    
 ✅ Build & optimize VPN and encryption technologies   
 ✅ Mentor & collaborate on problem-solving   
